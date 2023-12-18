@@ -1,2 +1,2 @@
 # Gitta Ataeimanesh
-Here is a collection of  DATA Science and Machine Learning projects to showcase my skills
+Here is a collection of my Data Science and Machine Learning projects to showcase my skills
